@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **full stack mern projects**
 
-- 👨‍💻 All of my projects are available at [portfolio-self-sigma-74.vercel.app](portfolio-self-sigma-74.vercel.app)
+- 👨‍💻 All of my projects are available at [https://dk-portfolio-eight.vercel.app/](https://dk-portfolio-eight.vercel.app/)
 
 - 💬 Ask me about **react,Mern,Ts**
 
