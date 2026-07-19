@@ -1,35 +1,109 @@
 <h1 align="center">Hi 👋, I'm Dhanush Kumar M</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Full-Stack Engineer & AI Systems Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdk353&label=Profile%20views&color=0e75b6&style=flat" alt="iamdk353" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdk353" alt="iamdk353" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iamdk353" target="blank"><img src="https://img.shields.io/twitter/follow/iamdk353?logo=twitter&style=for-the-badge" alt="iamdk353" /></a> </p>
-
-- 🔭 I’m currently working on **Mern,AI,langchain,LLm,Rag**
-
-- 🌱 I’m currently learning **Langchain**
-
-- 👯 I’m looking to collaborate on **full stack mern projects**
-
-- 👨‍💻 All of my projects are available at [https://dk-portfolio-eight.vercel.app/](https://dk-portfolio-eight.vercel.app/)
-
-- 💬 Ask me about **react,Mern,Ts**
-
-- 📫 How to reach me **https://www.linkedin.com/in/dhanush-kumar-m-dev/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamdk353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdk353" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dhanush-kumar-m-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhanush-kumar-m-dev" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dhanushkumar.online"><b>🌐 Portfolio</b></a> •
+  <a href="https://linkedin.com/in/dhanush-kumar-m"><b>💼 LinkedIn</b></a> •
+  <a href="https://twitter.com/iamdk353"><b>🐦 X (Twitter)</b></a> •
+  <a href="mailto:iamdk353@gmail.com"><b>✉️ Email</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamdk353&label=Profile%20Views&color=0e5484&style=flat-square" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdk353&show_icons=true&locale=en&layout=compact" alt="iamdk353" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdk353&show_icons=true&locale=en" alt="iamdk353" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdk353&" alt="iamdk353" /></p>
+- 🛠️ **Core Focus:** Building scalable real-time web applications, AI-driven software, microservices, and dev tools.
+- ⚡ **Tech Stack:** Python (FastAPI), React, Next.js, TypeScript, Node.js, Docker, AWS, PostgreSQL, MongoDB, Redis.
+- 🤖 **AI & GenAI:** Experienced in LLM integrations, RAG pipelines, OpenAI APIs, Vector Databases, and Agentic AI workflows.
+- 📦 **Featured Library:** Creator of [Cachetron](https://cachetron.dhanushkumar.online) — a pluggable caching abstraction npm library.
+- 🌐 **Portfolio:** Check out my live projects and demos at [dhanushkumar.online](https://dhanushkumar.online).
+
+---
+
+### 🛠️ Languages & Tools
+
+<details open>
+  <summary><b>Languages & Core</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Frontend & UI</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Backend & Infrastructure</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>AI & Developer Tools</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAG_%26_Embeddings-0F4539?style=for-the-badge&logo=spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  </p>
+</details>
+
+---
+
+### ⭐ Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 📦 **[Cachetron](https://cachetron.dhanushkumar.online)** | Zero-code backend switching cache framework unifying Redis & Memcached with ML TTL prediction. | `TypeScript` `Redis` `Docker` `Node.js` |
+| 🎙️ **[Voicely](https://github.com/iamdk353/voicely)** | Real-time modular voice agent with LiveKit streaming, prewarmed VAD, and OpenAI tool calling. | `TypeScript` `LiveKit` `OpenAI` `Docker` |
+| 🌱 **[AgriNex](https://github.com/iamdk353/plant-disease-backend)** | Plant disease detection AI platform with batch inference APIs and a 54-test hermetic test suite. | `Python` `FastAPI` `Next.js` `pytest` |
+| 📊 **[Infra AI](https://github.com/iamdk353/infra-ai)** | RAG-based decision support system for enterprise knowledge retrieval and contextual reasoning. | `Next.js` `TypeScript` `RAG` `OpenAI` |
+| 🔔 **[VTU Notify](https://vtu-notify.dhanushkumar.online)** | Automated scraper-driven notification platform delivering circular alerts to 100+ students. | `MERN` `TypeScript` `REST API` |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamdk353&show_icons=true&theme=algolia&hide_border=true" alt="Dhanush's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdk353&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdk353&theme=algolia&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something awesome together! 🚀</i>
+</p>
