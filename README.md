@@ -88,20 +88,6 @@
 | 🌱 **[AgriNex](https://github.com/iamdk353/plant-disease-backend)** | Plant disease detection AI platform with batch inference APIs and a 54-test hermetic test suite. | `Python` `FastAPI` `Next.js` `pytest` |
 | 📊 **[Infra AI](https://github.com/iamdk353/infra-ai)** | RAG-based decision support system for enterprise knowledge retrieval and contextual reasoning. | `Next.js` `TypeScript` `RAG` `OpenAI` |
 | 🔔 **[VTU Notify](https://vtu-notify.dhanushkumar.online)** | Automated scraper-driven notification platform delivering circular alerts to 100+ students. | `MERN` `TypeScript` `REST API` |
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamdk353&show_icons=true&theme=algolia&hide_border=true" alt="Dhanush's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdk353&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdk353&theme=algolia&hide_border=true" alt="Streak Stats" />
-</p>
-
 ---
 
 <p align="center">
